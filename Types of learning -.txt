@@ -1,0 +1,18 @@
+Types of learning :- 
+
+Supervised :- 1. Regression(continuous value)
+	      2. Classification(category or class)
+Unsupervised
+Semi supervised
+Reinforcement 
+
+y = mx + c
+Mean 
+Median 
+Mode
+Probability
+
+Standard deviation
+Variance
+Co relation
+Co variance
